@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805234069280",
+    "project_id": "socialapp-8cb56",
+    "storage_bucket": "socialapp-8cb56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805234069280:android:50fc638f9c86eb0b671145",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805234069280-5gac8rhtqb5r0srr3ib2pr35pna4kmn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGmhuFyis823AHEzHEzrcg589zAb3JL5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805234069280-5gac8rhtqb5r0srr3ib2pr35pna4kmn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
