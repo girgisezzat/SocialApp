@@ -86,6 +86,7 @@ class MyApp extends StatelessWidget {
               ..getMyPostData()
           ),
         ],
+        //SocialApp
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
           theme: lightTheme,
